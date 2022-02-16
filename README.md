@@ -226,7 +226,7 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Wed, Feb 16 -- More Pandas:** Vectorized operations; merge, join, concatenate; group by and aggregations; cleaning and imputing missing data
 
   - Readings
-    - Chapter 7 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
+    - Chapter 7, 10 in [Python for Data Analysis](https://github.com/wesm/pydata-book)
   - Exercises
     - Spend 2-3 hours working through notebooks 7 and 8 on your own
 
